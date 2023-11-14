@@ -2,13 +2,6 @@ import { useState } from "react";
 import "./styles.css";
 import Menu from "./Components/Menu";
 
-const menuItems = [
-  "React",
-  "JSX & Props",
-  "Related Resources",
-  "Vanilla JavaScript"
-];
-
 const content = [
   [
     "React is extremely popular",
